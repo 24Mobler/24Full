@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.overflow-x-auto::-webkit-scrollbar {
+    display: none;
+}
+
+.overflow-y-auto::-webkit-scrollbar {
+    display: none;
+}
